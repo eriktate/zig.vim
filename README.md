@@ -3,6 +3,8 @@
 File detection and syntax highlighting for the
 [zig](http://ziglang.org/) programming language.
 
+Forked from mainline to add smart indent.
+
 ## Installation
 
  * Use Vim 8 or newer
