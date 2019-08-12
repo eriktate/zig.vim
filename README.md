@@ -14,9 +14,9 @@ Forked from mainline to add smart indent.
 
 ## Configuration
 
-To enable automatic formatting on save, add the following configuration to your
-vimrc:
+This plugin enables automatic code formatting on save by default using
+`zig fmt`. To disable it, you can use this configuration in vimrc:
 
 ```
-let g:zig_fmt_autosave = 1
+let g:zig_fmt_autosave = 0
 ```
